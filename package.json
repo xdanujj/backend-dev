@@ -1,0 +1,23 @@
+{
+  "name": "web-dev",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdanujj/backend-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xdanujj/backend-dev/issues"
+  },
+  "homepage": "https://github.com/xdanujj/backend-dev#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
